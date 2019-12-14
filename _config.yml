@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Laith Azzam
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web developer with a ♥ for building usable & delightful experiences.
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
+avatar: https://laith.wtf/images/logos/lazzam-logo.svg
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -22,38 +22,31 @@ avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-l
 navigation:
   - name: Blog
     url: /
-  - name: About
-    url: /about
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
 paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
-  dribbble:
-  email:
+  behance: LaithAzzam
+  dribbble: LAzzam
+  email: laith@lets-go.design
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: laithazzam
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
+  instagram: laith_one
+  linkedin: lazzam2
   pinterest:
   rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  stackoverflow: users/10419987/laith-azzam
+  tumblr: lazzam
+  twitter: laithwtf
   youtube: # channel/<your_long_string> or user/<user-name>
-
-# Text under the icons in footer
-footer-text: © 2017 Kiko Now
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
