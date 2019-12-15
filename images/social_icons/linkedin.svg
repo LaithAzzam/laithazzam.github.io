@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-157.000000, -468.000000)">
+            <g id="linkedin" transform="translate(157.000000, 468.000000)">
+                <path d="M16,0 C7.163,0 0,7.163 0,16 C0,24.836 7.163,32 16,32 C24.837,32 32,24.836 32,16 C32,7.163 24.837,0 16,0 L16,0 Z" id="Fill-209" fill="#444444"></path>
+                <g id="Group-5" transform="translate(9.000000, 8.000000)" fill="#FFFFFF">
+                    <g id="Group-6" transform="translate(0.000000, 4.000000)">
+                        <path d="M15,10.9863125 L11.8921875,10.9863125 L11.8921875,6.1225625 C11.8921875,4.962875 11.8715625,3.4713125 10.276875,3.4713125 C8.6596875,3.4713125 8.413125,4.7350625 8.413125,6.0400625 L8.413125,10.9863125 L5.308125,10.9863125 L5.308125,0.9850625 L8.2875,0.9850625 L8.2875,2.352875 L8.330625,2.352875 C8.745,1.5663125 9.759375,0.736625 11.2715625,0.736625 C14.41875,0.736625 15,2.8075625 15,5.501 L15,10.9863125 Z" id="Path"></path>
+                        <polygon id="Path" points="3.358125 10.9863125 0.2465625 10.9863125 0.2465625 0.9850625 3.358125 0.9850625"></polygon>
+                    </g>
+                    <path d="M1.80375,3.619125 C0.8053125,3.619125 0,2.811 0,1.8163125 C0,0.821625 0.8053125,0.0135 1.80375,0.0135 C2.7975,0.0135 3.6046875,0.821625 3.6046875,1.8163125 C3.6046875,2.811 2.7975,3.619125 1.80375,3.619125 L1.80375,3.619125 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
