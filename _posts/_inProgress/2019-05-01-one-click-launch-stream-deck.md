@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Fast project launching with Stream Deck"
+title: "One click local env startup with Stream Deck"
 tags: [productivity, tutorial, hardware]
-comments: true
 ---
 
-Getting started is the hardest part.
+The hardest part can be getting started.
 
 This is something that rings true with our team. With a default to action mindset, even _starting_ to work on a project can be a task. We've built a boilerplate to quickly launch SaaS applications -- here's a quick guide to make managing and working on multiple applications a bit easier right away.
 
@@ -19,7 +18,7 @@ The goal of our application is to
 
 * Start our application's local dev server
 * Start our `app` `firebase` cloud functions
-* Start our `app` `Storybook` instance
+* Start our `app` `Storybook` **instance**
 * Open our project in `SublimeText`
 
 ## Applescript
