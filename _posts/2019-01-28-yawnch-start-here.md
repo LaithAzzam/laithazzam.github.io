@@ -5,15 +5,10 @@ tags: [Bootstrapping]
 comments: true
 ---
 
-SaaS products are hot — very hot. So hot, we created one of our own.
+SaaS products are hot — very hot — so [we](https://lets-go.design/){:target="_blank"} created our own.
 
-Stockstream is a subscription based web app birthed to solve a problem in the financial sector; Democratizing access to financial information. We are solving the problem by building an ad-free marketplace for new & experienced investors to learn and share ideas with seasoned analysts, on a reoccurring subscription.
+[Stockstream](https://stockstream.tv){:target="_blank"} is a subscription based web app birthed to solve the problem of democratizing access to financial knowledge.
 
-The process of bringing Stockstream.tv to market has given us the opportunity to feel the pains of launching a SaaS web-app, and develop solutions using bleeding-edge technology to get to where we want to be as soon as possible, & “fo free”.
+Feeling the pains of building a SaaS company we abstracted sstv into an [open source framework](https://github.com/yawnch){:target="_blank"} so anyone can develop & launch their product in record time. Our goal is to provide value to early stage co-founders with varying backgrounds.
 
-Before getting to work on product number 2, we’re starting the journey of abstracting our current SaaS codebase into a re-usable, open source framework that anyone can use to develop & launch their product in record time.
-
-With Yawnch, we really want to bridge the gap between early stage co-founders with non-dev backgrounds — creating an environment where someone with a product idea can get it realized & launched while gaining the initial experience they’ll need to grow & operate a SaaS platform.
-
-Thanks for being here with us 🙏 stay tuned for progress and reach out if you have any ideas or would like to get involved! info.laith@gmail.com
-****
+Thanks for being here with us 🙏 come hang out if would like to get involved: [https://yawnch.com/](https://yawnch.com/){:target="_blank"}

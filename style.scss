@@ -33,9 +33,14 @@ html, body {
 
 .container {
   margin: 0 auto;
-  max-width: 960px;
-  padding: 0 10px;
+  padding: 0px 6vw;
+  box-sizing: border-box;
+  max-width: 1000px;
   width: 100%;
+
+  @media (min-width: 800px) {
+    padding: 0 85px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -253,9 +258,12 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .section {
+  margin: 0 auto;
   margin-bottom: 125px;
-  padding: 0 25px;
-  box-sizing: border-box;
+
+  &:last-of-type {
+    margin-bottom: 50px;
+  }
 }
 
 .section-items {
@@ -603,7 +611,27 @@ nav {
 }
 
 .entry {
-  p { color: $oc-gray-6; }
+  margin-top: 45px;
+
+  &__home {
+    margin-top: 15px;
+  }
+
+  p {
+    color: $oc-gray-2;
+    margin-bottom: 2rem;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  a {
+    color: $oc-gray-3;
+    font-weight: bold;
+
+    &:hover {
+      color: $oc-violet-3;
+    }
+  }
 }
 
 .tags > .tag {
